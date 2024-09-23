@@ -173,5 +173,5 @@ print("Valores de",T,":",taus)
 print("Valores de",a,":",alphas,"\n",a,"prom=",sumAlpha/12)
 print("Valores de h : ",hs,"\n h prom=",sumH/12)
 print("Valores de k : ",ks,"\n k prom=",sumK/12)
-
+print("NUEVO MENSAJE")
 plt.show()
